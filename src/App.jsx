@@ -200,7 +200,7 @@ Take care 😊
                           <div className="relative">
                             <img
                               alt=""
-                              src="./4.jpg"
+                              src="./8.jpeg"
                               className="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                             />
                             <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
@@ -298,7 +298,7 @@ Take care 😊
               </div> */}
               <img
               className="size-full object-cover object-top"
-              src="./8.jpeg"
+              src="./4.jpg"
               alt=""
             />
             </div>
