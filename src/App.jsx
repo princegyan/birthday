@@ -144,10 +144,10 @@ function App() {
                   <div className="mx-auto max-w-7xl px-6 pt-36 pb-32 sm:pt-60 lg:px-8 lg:pt-32">
                     <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
                       <div className="relative w-full lg:max-w-xl lg:shrink-0 xl:max-w-2xl">
-                        <h1 className="font-Guttery text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl">
-                          Happy Birthday, Manuella! <span className="text-4xl text-gray-500">🎉</span>
+                        <h1 className="font-Guttery text-6xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl">
+                          Happy  Birthday,  Manuella! <span className="text-4xl text-gray-500">🎉</span>
                         </h1>
-                        <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:max-w-md sm:text-xl/8 lg:max-w-none">To the one who makes everything feel beautiful
+                        <p className="font-montserrat mt-8 text-lg font-medium text-pretty text-gray-500 sm:max-w-md sm:text-xl/8 lg:max-w-none">To the one who makes everything feel beautiful
 I saw your picture on a friend's status and I couldn't stop myself from reaching out. You have such a beautiful, warm smile — it honestly made my day.
 
 I know this is a bit random and we've never met, but I wanted to wish you a very happy birthday anyway. Hope you're having a wonderful day surrounded by people who make you smile as much as that photo made me smile.
@@ -224,7 +224,7 @@ Take care 😊
         <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
         {/* <h2 className="text-center text-base/7 font-semibold text-indigo-600">Deploy faster</h2> */}
         <p className="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-gray-950 sm:text-5xl">
-          Caught Your Smile on My Screen And Now I Can't Stop Smiling
+          Caught  Your  Smile  on  My  Screen  And  Now  I  Can't  Stop  Smiling
         </p>
         <div className="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
           <div className="relative lg:row-span-2">
